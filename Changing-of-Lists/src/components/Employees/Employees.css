@@ -1,0 +1,17 @@
+body{
+    background-color: bisque;
+}
+.main{
+    width: 20%;
+    margin: auto;
+}
+h1{
+    color: red;
+}
+p{
+    color: blue;
+}
+input{
+    width: 20%;
+    margin: auto;
+}
